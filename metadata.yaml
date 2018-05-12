@@ -1,10 +1,16 @@
 _repo: Time-Telling-through-the-Ages_47928
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47928-h/images/cover.jpg
 creator:
   author:
     agent_name: Brearley, Harry Chase
     gutenberg_agent_id: '44526'
     url: http://www.gutenberg.org/2009/agents/44526
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47928#Time-Telling-through-the-Ages
 gutenberg_issued: '2015-01-09'
 gutenberg_type: Text
 identifiers:
